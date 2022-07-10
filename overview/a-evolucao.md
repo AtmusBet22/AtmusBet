@@ -3,7 +3,7 @@ description: Tendências de apostas com criptomoedas em 2022
 coverY: 0
 ---
 
-# A evolução
+# 📈 A evolução
 
 ### Apostas com moedas digitais: crescimento expressivo
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Chave API
+# 🎳 Chave API
 
 RocketBet possui um sistema de depósito e retirada de skins CS:GO P2P (jogador para jogador). Nosso sistema permite que os usuários depositem e retirem itens do CS: GO mesmo quando o inventário do Steam estiver carregado. Isso é possível através da chave da API do Steam. Para usar a chave da API do Steam, precisamos que o usuário gere e nos forneça sua chave de API.
 
