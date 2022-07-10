@@ -25,15 +25,17 @@
 ## TOKENOMICS
 
 * [Token ATB](tokenomics/token-atb.md)
+* [Referências](tokenomics/referencias.md)
 * [KYC & Audit](tokenomics/kyc-and-audit.md)
 * [Our team](tokenomics/our-team.md)
 * [Roadmap](tokenomics/roadmap.md)
-* [Referências](tokenomics/referencias.md)
 
 ## Rede social
 
-* [Linktree](https://www.google.com/)
-* [Twitter](https://www.google.com/)
-* [Telegram](https://www.google.com/)
-* [Discord](https://www.google.com/)
-* [Youtube](https://www.google.com/)
+* [➡ Linktree](https://www.google.com/)
+* [➡ Twitter](https://www.google.com/)
+* [➡ Telegram](https://www.google.com/)
+* [➡ Discord](https://www.google.com/)
+* [➡ Youtube](https://www.google.com/)
+* [➡ Instagran](https://www.google.com/)
+* [➡ Facebook](https://www.google.com/)
