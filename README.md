@@ -20,6 +20,7 @@ Dentre os principais fatores que os investidores buscam para apostar, nos adotam
 * Diversas modalidades de aposta dentro de uma única plataforma!
 
 [fairlaunch.md](tokenomics/fairlaunch.md "mention")\
+\
 [kyc-and-audit.md](tokenomics/kyc-and-audit.md "mention")\
 \
 \

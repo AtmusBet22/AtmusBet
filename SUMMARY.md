@@ -5,11 +5,16 @@
 ## Overview
 
 * [📈 A evolução](overview/a-evolucao.md)
-* [🎳 Chave API](overview/chave-api.md)
+* [🔽 Conta RocketBet](overview/conta-rocketbet/README.md)
+  * [⛓ Criando conta](overview/conta-rocketbet/criando-conta.md)
+* [⛓ Registros](overview/registros.md)
+* [⛓ Paridades](overview/paridades.md)
+* [⛓ Encerramento](overview/encerramento.md)
 * [🎯 Promoções](overview/beneficios.md)
+* [🎳 Chave API](overview/chave-api.md)
 * [🔰 Transparência](overview/transparencia.md)
-* [🆘 Auto ajuda](overview/auto-ajuda.md)
 * [🔐 Segurança](overview/seguranca.md)
+* [🆘 Auto ajuda](overview/auto-ajuda.md)
 
 ## Gameplay
 
