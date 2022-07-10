@@ -6,11 +6,8 @@
 
 * [A evolução](overview/a-evolucao.md)
 * [Chave API](overview/chave-api.md)
+* [Promoção](overview/promocao.md)
 * [Benefícios](overview/beneficios.md)
-* [Paridades](overview/paridades/README.md)
-  * [Afiliado](overview/paridades/afiliado.md)
-  * [Deposito](overview/paridades/deposito.md)
-  * [Retirado](overview/paridades/retirado.md)
 * [Transparência](overview/transparencia.md)
 * [Auto ajuda](overview/auto-ajuda.md)
 
@@ -25,6 +22,10 @@
 ## TOKENOMICS
 
 * [Token ATB](tokenomics/token-atb.md)
+* [Paridades](tokenomics/paridades/README.md)
+  * [Afiliado](tokenomics/paridades/afiliado.md)
+  * [Deposito](tokenomics/paridades/deposito.md)
+  * [Retirado](tokenomics/paridades/retirado.md)
 * [Referências](tokenomics/referencias.md)
 * [KYC & Audit](tokenomics/kyc-and-audit.md)
 * [Our team](tokenomics/our-team.md)
