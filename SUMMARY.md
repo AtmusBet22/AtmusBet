@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AtmusBet](README.md)
+* [RocketBet](README.md)
 
 ## Overview
 
