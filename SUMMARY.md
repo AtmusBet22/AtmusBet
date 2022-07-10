@@ -6,9 +6,10 @@
 
 * [📈 A evolução](overview/a-evolucao.md)
 * [🎳 Chave API](overview/chave-api.md)
-* [🎯 Promoções](overview/promocoes.md)
+* [🎯 Promoções](overview/beneficios.md)
 * [🔰 Transparência](overview/transparencia.md)
 * [🆘 Auto ajuda](overview/auto-ajuda.md)
+* [🔐 Segurança](overview/seguranca.md)
 
 ## Gameplay
 
