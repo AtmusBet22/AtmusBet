@@ -27,6 +27,7 @@
   * [Deposito](tokenomics/paridades/deposito.md)
   * [Retirado](tokenomics/paridades/retirado.md)
 * [Referências](tokenomics/referencias.md)
+* [Fairlaunch](tokenomics/fairlaunch.md)
 * [KYC & Audit](tokenomics/kyc-and-audit.md)
 * [Our team](tokenomics/our-team.md)
 * [Roadmap](tokenomics/roadmap.md)
