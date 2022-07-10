@@ -5,7 +5,7 @@
 ## Overview
 
 * [📈 A evolução](overview/a-evolucao.md)
-* [🔽 Conta RocketBet](overview/conta-rocketbet/README.md)
+* [⏯ Conta RocketBet](overview/conta-rocketbet/README.md)
   * [⛓ Criando conta](overview/conta-rocketbet/criando-conta.md)
   * [⛓ Registros](overview/conta-rocketbet/registros.md)
   * [⛓ Paridades](overview/conta-rocketbet/paridades.md)
