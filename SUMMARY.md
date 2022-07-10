@@ -6,7 +6,7 @@
 
 * [📈 A evolução](overview/a-evolucao.md)
 * [🎳 Chave API](overview/chave-api.md)
-* [🎯 Benefícios](overview/beneficios.md)
+* [🎯 Promoções](overview/promocoes.md)
 * [🔰 Transparência](overview/transparencia.md)
 * [🆘 Auto ajuda](overview/auto-ajuda.md)
 
