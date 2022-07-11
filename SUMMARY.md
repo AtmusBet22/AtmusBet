@@ -1,15 +1,15 @@
 # Table of contents
 
-* [🌐 RocketBet](README.md)
+* [🌐 Rocket B2E](README.md)
 
 ## Overview
 
 * [📈 A evolução](overview/a-evolucao.md)
-* [⏯ Conta RocketBet](overview/conta-rocketbet/README.md)
-  * [⛓ Criando conta](overview/conta-rocketbet/criando-conta.md)
-  * [⛓ Registros](overview/conta-rocketbet/registros.md)
-  * [⛓ Paridades](overview/conta-rocketbet/paridades.md)
-  * [⛓ Encerramento](overview/conta-rocketbet/encerramento.md)
+* [⏯ Conta Rocket B2E](overview/conta-rocket-b2e/README.md)
+  * [⛓ Criando conta](overview/conta-rocket-b2e/criando-conta.md)
+  * [⛓ Registros](overview/conta-rocket-b2e/registros.md)
+  * [⛓ Paridades](overview/conta-rocket-b2e/paridades.md)
+  * [⛓ Encerramento](overview/conta-rocket-b2e/encerramento.md)
 * [🌠 Recompensas](overview/recompensas.md)
 * [🆙 Níveis](overview/niveis.md)
 * [🎯 Promoções](overview/beneficios.md)
