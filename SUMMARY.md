@@ -29,10 +29,6 @@
 ## TOKENOMICS
 
 * [🪙 Token ATB](tokenomics/token-atb.md)
-* [🔋 Paridades](tokenomics/paridades/README.md)
-  * [💴 Afiliado](tokenomics/paridades/afiliado.md)
-  * [💷 Deposito](tokenomics/paridades/deposito.md)
-  * [💶 Retirado](tokenomics/paridades/retirado.md)
 * [⚠ Referências](tokenomics/referencias.md)
 * [💎 Fairlaunch](tokenomics/fairlaunch.md)
 * [🛡 KYC & Audit](tokenomics/kyc-and-audit.md)
