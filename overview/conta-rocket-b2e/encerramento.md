@@ -4,6 +4,15 @@ coverY: 0
 
 # ⛓ Encerramento
 
+* Deve ser preenchido o formulário, evidenciando o motivo do encerramento, após enviado, aguardar em torno de 25 dias até que se confirme o cancelamento.\
+  **ADENDO IMPORTANTE:** Antes do encerramento, validar se não hà fundos, pois após a solicitação, não será possível o reembolso.
+
+
+
+##
+
+##
+
 ## Como desativo minha assinatura dos emails informativos e das promoções da Blaze?
 
 Faça login na sua conta e acesse [https://blaze.com/account/preferences](https://blaze.com/account/preferences). Lá você poderá desativar as comunicações que não deseja receber.
