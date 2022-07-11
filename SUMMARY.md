@@ -28,7 +28,7 @@
 
 ## TOKENOMICS
 
-* [🪙 Token ATB](tokenomics/token-atb.md)
+* [🪙 Token B2E](tokenomics/token-b2e.md)
 * [⚠ Referências](tokenomics/referencias.md)
 * [💎 Fairlaunch](tokenomics/fairlaunch.md)
 * [🛡 KYC & Audit](tokenomics/kyc-and-audit.md)

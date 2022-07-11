@@ -1,5 +1,4 @@
 ---
-description: E se eu não conseguir parar?
 coverY: 0
 ---
 

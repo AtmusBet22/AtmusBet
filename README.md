@@ -5,13 +5,15 @@ description: >-
 coverY: 0
 ---
 
-# 🌐 RocketBet
+# 🌐 Rocket B2E
 
 Segmento de apostas tem uma crescente superior à 10% a cada ano que passa, em 2020 tivemos um mercado global avaliado em US$59.6 bilhões, com grande potencial para chegar em US$127.3 bilhões em 2027. Segmento no qual teve no inicio um repúdio por parte dos seus investidores pela não regulamentações nos países, contudo diversos países passaram a regulamentar a modalidade, e com isso o que era inseguro, passou a ter uma crescente exponencial, podendo até mesmo tornar um dos principais mercados do mundo! \
 Crescente se dá muito pela Pandemia, onde muitos investidores destes segmentos começaram aderir a modalidade online, e passou a ser um meio de renda extra, em algumas situações até mesmo mudança total de pessoas que conseguiu muitos bens provido das modalidades.\
 Os investidores tem como principal motivos para apostas esportivas a diversão, renda e conexão.
 
-A **RocketBet** enxergou esse mercado potencial e tem como principal objetivo se tornar a maior do mundo no segmento de apostas, com diversas modalidade inclusa na sua plataforma, atendendo públicos de todas características, e sempre priorizando aos seus investidores segurança e acima de tudo transparência! onde nos torna uma plataforma além de confiável, registrada cumprindo todas as exigências padrões a esse tipo de negocio.\
+A **Rocket B2E** enxergou esse mercado potencial e tem como principal objetivo se tornar a maior do mundo no segmento de apostas, com diversas modalidade inclusa na sua plataforma, atendendo públicos de todas características, e sempre priorizando aos seus investidores segurança e acima de tudo transparência! onde nos torna uma plataforma além de confiável, registrada cumprindo todas as exigências padrões a esse tipo de negocio.
+
+Não importa o tamanho do seu inventário ou o quanto você aposta, suas chances são sempre as mesmas. As apostas ocorrem em tempo real, em todo o site, o que significa que você aposta, ganha e perde junto com outros jogadores. Todos os lançamentos são gerados usando um sistema comprovadamente justo – garantindo um lançamento justo em cada aposta.\
 Dentre os principais fatores que os investidores buscam para apostar, nos adotamos todos! e são eles:
 
 * Rapidez nos pagamentos;
@@ -20,6 +22,7 @@ Dentre os principais fatores que os investidores buscam para apostar, nos adotam
 * Diversas modalidades de aposta dentro de uma única plataforma!
 
 [fairlaunch.md](tokenomics/fairlaunch.md "mention")\
+\
 [kyc-and-audit.md](tokenomics/kyc-and-audit.md "mention")\
 \
 \
